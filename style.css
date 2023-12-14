@@ -1,0 +1,12 @@
+#list{
+    display: flex;
+    flex-direction: column;
+}
+.people{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+#list div{
+    display: flex;
+}
